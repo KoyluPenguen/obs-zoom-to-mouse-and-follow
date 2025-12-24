@@ -4,6 +4,10 @@ An OBS Lua script to zoom a display-capture source to focus on the mouse.
 
 > **Original Project:** [BlankSourceCode/obs-zoom-to-mouse](https://github.com/BlankSourceCode/obs-zoom-to-mouse)
 
+## Demo
+
+![OBS Zoom to Mouse Demo](obs64_73qOqwiTm8-ezgif.com-video-to-gif-converter.gif)
+
 ---
 
 ## Why This Version? / Neden Bu Sürüm?
